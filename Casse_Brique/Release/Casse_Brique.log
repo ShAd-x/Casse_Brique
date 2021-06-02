@@ -1,9 +1,12 @@
 ﻿  Main.cpp
-D:\Cours\C++\Casse_Brique\Casse_Brique\Casse_Brique\Main.cpp(24,35): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-D:\Cours\C++\Casse_Brique\Casse_Brique\Casse_Brique\Main.cpp(24,29): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Cours\C++\Casse_Brique\Casse_Brique\Casse_Brique\Main.cpp(20,17): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+D:\Cours\C++\Casse_Brique\Casse_Brique\Casse_Brique\Main.cpp(35,32): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Cours\C++\Casse_Brique\Casse_Brique\Casse_Brique\Main.cpp(35,23): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Cours\C++\Casse_Brique\Casse_Brique\Casse_Brique\Main.cpp(53,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Cours\C++\Casse_Brique\Casse_Brique\Casse_Brique\Main.cpp(53,30): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
   Génération de code en cours
-  6 of 31 functions (19.4%) were compiled, the rest were copied from previous compilation.
-    5 functions were new in current compilation
+  1 of 31 functions ( 3.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   Fin de la génération du code
   Casse_Brique.vcxproj -> D:\Cours\C++\Casse_Brique\Casse_Brique\Release\Casse_Brique.exe
